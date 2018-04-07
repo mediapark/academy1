@@ -1,5 +1,5 @@
 # Steps!
-- `git@github.com:mediapark/academy1.git`
+- `git clone git@github.com:mediapark/academy1.git`
 - `docker-compose build`
 - `docker-compose up -d`
 - `docker-compose exec php-fpm composer install`
